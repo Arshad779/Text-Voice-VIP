@@ -1,0 +1,22 @@
+{
+  "id": "clone-1789730228497",
+  "name": "Rajesh Test Clone",
+  "isPreset": false,
+  "category": "Cloned",
+  "gender": "male",
+  "language": "Hindi",
+  "accent": "Authentic Hindi Male Clone",
+  "flag": "🎙️",
+  "tag": "Acoustic Clone",
+  "neuralModel": "hi-IN-MadhurNeural",
+  "pitch": "medium-low",
+  "speed": "moderate",
+  "emotion": "warm",
+  "baseVoice": "Fenrir",
+  "styleDirective": "Say with natural human cadence and acoustic resonance matching Rajesh Test Clone",
+  "description": "Custom verified clone calibrated from acoustic sample (2.0s). Harmonic profile mapped to hi-IN-MadhurNeural.",
+  "createdAt": "2026-09-18T11:17:08.795Z",
+  "sampleAudioUrl": "/uploads/clones/clone-1789730228497.wav",
+  "sampleDuration": 2,
+  "verified": true
+}

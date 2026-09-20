@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix TTS Voic7777",
+  "description": "A Text-to-Speech voice cloning application. Upload or record audio to analyze vocal characteristics, clone voices, and synthesize high-quality custom speech using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
